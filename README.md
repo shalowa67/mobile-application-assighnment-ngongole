@@ -141,5 +141,5 @@ Money is stored as **ngwee in a `Long`** (K 12.50 = 1250), because `Double` cann
 | 5 | Emmanuel Sichilima | 2410156 | | Customer Details + SMS/WhatsApp intents |
 
 ## Demo video
-
-_YouTube (unlisted) link here_
+https://youtu.be/MAWKZ6y461k
+https://youtu.be/MAWKZ6y461k
