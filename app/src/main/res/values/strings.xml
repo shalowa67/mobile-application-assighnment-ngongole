@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ngongole</string>
+    <string name="reminder_channel_name">Payment reminders</string>
+    <string name="reminder_channel_description">Daily reminder of customers who have owed money for 7 days or more</string>
+</resources>
