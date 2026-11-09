@@ -134,11 +134,11 @@ Money is stored as **ngwee in a `Long`** (K 12.50 = 1250), because `Double` cann
 
 | # | Full name | Student number | GitHub username | Owns |
 |---|---|---|---|---|
-| 1 | | | | Room database (`data/`) |
-| 2 | | | | WorkManager + notifications (`reminders/`) |
-| 3 | | | | Customer List screen |
-| 4 | | | | Add Customer form + validation |
-| 5 | | | | Customer Details + SMS/WhatsApp intents |
+| 1 | Bristol Shalowa | 2421003 | | Room database (`data/`) |
+| 2 | Robert Sichizya | 2410264 | | WorkManager + notifications (`reminders/`) |
+| 3 | Isreal Mumba | 2420971 | | Customer List screen |
+| 4 | Mike Muyambango | 2420983 | | Add Customer form + validation |
+| 5 | Emmanuel Sichilima | 2410156 | | Customer Details + SMS/WhatsApp intents |
 
 ## Demo video
 
